@@ -7,5 +7,9 @@
 - 👨‍🔬 Life Science
 - ⚗️ Chemistry
 
+## Contact me
+
+ 📧 jipson.minibhavan@googlemail.com
+ 
 
 
