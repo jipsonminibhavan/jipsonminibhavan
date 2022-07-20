@@ -1,4 +1,4 @@
-# Hi there,  I'm Jipson !👋
+# Hi there, nice to meet you, I'm Jipson !👋
 
  I'm currently learning coding !
 
