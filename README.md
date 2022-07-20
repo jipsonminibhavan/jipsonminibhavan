@@ -4,8 +4,8 @@
 
 ## INDUSTRY CORPORATES I'M INTO:
 
-👨‍🔬 Life Science
-⚗️ Chemmistry
+- 👨‍🔬 Life Science
+- ⚗️ Chemistry
 
 
 
