@@ -2,7 +2,7 @@
 
 I'm thrilled to learn new and challenging things !✨
 
-Graduated from Coding Bootcamps Europe.
+-Graduated from Coding Bootcamps Europe.
 Looking for a trainee or junior position.
 Loves learning - what should be next on my schedule? 
 
@@ -28,7 +28,7 @@ The basics of chemistry and physics has enriched me with regard to the implement
 
 ## Contact me
 
- 📧 jipson.minibhavan@googlemail.com
+ 📧 [MailMe](jipson.minibhavan@googlemail.com)
  
 
 
