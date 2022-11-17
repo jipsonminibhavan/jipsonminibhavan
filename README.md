@@ -2,9 +2,9 @@
 
 I'm thrilled to learn new and challenging things !✨
 
--Graduated from Coding Bootcamps Europe.
-Looking for a trainee or junior position.
-Loves learning - what should be next on my schedule? 
+- Graduated from Coding Bootcamps Europe.
+- Looking for a trainee or junior position.
+- Loves learning - what should be next on my schedule? 
 
 I grew up in two cultures: both the Indian and the German culture have shaped me equally. 
 I have learned to be open to new situations, to recognize the subtle nuances of different cultures and to adapt to them. 
@@ -18,17 +18,17 @@ The basics of chemistry and physics has enriched me with regard to the implement
 - 👨‍🔬 Life Science
 - ⚗️ Chemistry
 
-## Skills
+## Skills:
 
--JavaScript
--HTML
--CSS
--Vue
--VS Code
+- JavaScript
+- HTML
+- CSS
+- Vue
+- VS Code
 
 ## Contact me
 
- 📧 [MailMe](jipson.minibhavan@googlemail.com)
+ 📧 [Mail](jipson.minibhavan@googlemail.com)
  
 
 
