@@ -21,9 +21,16 @@ The basics of chemistry and physics has enriched me with regard to the implement
 ## Skills:
 
 - JavaScript
+- TypeScript
+- Java
 - HTML
 - CSS
 - Vue
+- SpringbootMongoDB 
+- Mongoose ODM 
+- JSON Web Token (JWT) 
+- Passport.js
+- REST-API
 - VS Code
 
 ## Contact me
