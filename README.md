@@ -26,6 +26,7 @@ The basics of chemistry and physics has enriched me with regard to the implement
 - HTML
 - CSS
 - Vue
+- Node.js
 - Springboot
 - MongoDB 
 - Mongoose ODM 
