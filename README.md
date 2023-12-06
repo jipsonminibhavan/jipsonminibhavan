@@ -26,7 +26,8 @@ The basics of chemistry and physics has enriched me with regard to the implement
 - HTML
 - CSS
 - Vue
-- SpringbootMongoDB 
+- Springboot
+- MongoDB 
 - Mongoose ODM 
 - JSON Web Token (JWT) 
 - Passport.js
